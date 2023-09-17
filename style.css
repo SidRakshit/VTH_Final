@@ -1,0 +1,33 @@
+/* styles.css */
+table {
+    font-size: 16px;
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+/* styles.css */
+/* Set background color to black and text color to white */
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Center-align text */
+.centered-text {
+    text-align: center;
+}
+
+/* Set color of headings to red */
+h2 {
+    color: red;
+}
+
+

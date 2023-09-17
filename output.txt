@@ -1,0 +1,26 @@
+{
+    "access_token": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIiwiaXNzIjoiaHR0cHM6Ly9kZXYtc2U0NTAzdWJyZHJmY2phbC51cy5hdXRoMC5jb20vIn0..2COsjxXtbEOXxGSy.WQK4936eawvO_EHhc9in6ypSQxTvGZSfUr6GrZkC7baTSj6z7PwJldk1NLVbeXng3oaslalGu20L9KA48d6cC37z7XSsuP4UQ-wGdgWIV4S6Lu9Mrq8vLZvANqdQ2d-SKrliebackvtaj-mqnbRcGL5svwwupVjWQ9-6tljvgQ09oHEkCnrwWc-zvhGMhV99Zw9xlgnxVMB8UGJi52zBlq8TileQ6DiOq6gMtQ2Nm-BQr5OHkmOwyUBJmYhDA7a8CApzf3K7isqcJjmmSo3BywpZ5WKxHiEXvXXMod4ddRMqfWbcJ_ys7mJM6uPq-QVY1MsDr2ka4IS-zF6ugwagIy9sVjUcfe8.kOry_nqjXDKPMcZi3Cg7ng",
+    "expires_at": 1695029711,
+    "expires_in": 86400,
+    "id_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InlaR21oc0ZrUTRIN0ROSEU4SVZfZCJ9.eyJnaXZlbl9uYW1lIjoiRGhydXYiLCJmYW1pbHlfbmFtZSI6IlZhcnNobmV5Iiwibmlja25hbWUiOiJkaHJ1dnZhcnNobmV5dmsiLCJuYW1lIjoiRGhydXYgVmFyc2huZXkiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ZRQzZIaG1wX0FBVnFGMkRfWWNLRzBMTzY2aHNwWDFOeFc5c3BJTTNxVmc9czk2LWMiLCJsb2NhbGUiOiJlbiIsInVwZGF0ZWRfYXQiOiIyMDIzLTA5LTE3VDA2OjU3OjQyLjU3MFoiLCJlbWFpbCI6ImRocnV2dmFyc2huZXl2a0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9kZXYtc2U0NTAzdWJyZHJmY2phbC51cy5hdXRoMC5jb20vIiwiYXVkIjoiTDh4SEpqazcycExEOXRqMDZwYndLMkJCazRheFp1emMiLCJpYXQiOjE2OTQ5NDMzMTEsImV4cCI6MTY5NDk3OTMxMSwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDA3OTg5NTc2OTI2MzE5MTQ2MzkiLCJzaWQiOiI0clA4dUpweVpMb0NJZjMwWjNoNWloN21rUjVMYVFOdiIsIm5vbmNlIjoiWGc1Zlg2TTc5V2xPbnJsUUZXb3kifQ.hXaa-eRdmfRDKFcXs5GaTRO8M8pRS7zGw9Q6cmiFXerDySS5BcbMj6xDIIKbJ-9GTbOtybOlD4Ag_WjxrLZ7qO_MlalR9jE8fGYmKj5egbVDhusTKNpf7Wyc3gK1n-0uXAa4hXqYnTUz-Ff6UejAc4hIE-rXrgikVnRfS7d7s0ZbJSQ96SWb3e7kWS1Qw3OdHzcosJUdGEgReK6ZotCBDmCc1rzcO6SS6YGDbjbAfeacOeyPGc0kXRTUu6ML1TGmuV-vyr6KOec2Di19h0P5eSTvAMZxVMbUVoQLowE4xEdESUyBKSXAQWH45C4TK-MEotMLMxq6sV9q0-lgS-T6FA",
+    "scope": "openid profile email",
+    "token_type": "Bearer",
+    "userinfo": {
+        "aud": "L8xHJjk72pLD9tj06pbwK2BBk4axZuzc",
+        "email": "dhruvvarshneyvk@gmail.com",
+        "email_verified": true,
+        "exp": 1694979311,
+        "family_name": "Varshney",
+        "given_name": "Dhruv",
+        "iat": 1694943311,
+        "iss": "https://dev-se4503ubrdrfcjal.us.auth0.com/",
+        "locale": "en",
+        "name": "Dhruv Varshney",
+        "nickname": "dhruvvarshneyvk",
+        "nonce": "Xg5fX6M79WlOnrlQFWoy",
+        "picture": "https://lh3.googleusercontent.com/a/ACg8ocKfQC6Hhmp_AAVqF2D_YcKG0LO66hspX1NxW9spIM3qVg=s96-c",
+        "sid": "4rP8uJpyZLoCIf30Z3h5ih7mkR5LaQNv",
+        "sub": "google-oauth2|100798957692631914639",
+        "updated_at": "2023-09-17T06:57:42.570Z"
+    }
+}
